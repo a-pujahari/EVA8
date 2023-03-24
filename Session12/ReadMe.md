@@ -4,5 +4,9 @@
 ### Classes - Mask, Vest, Boots and Hardhat
 
 Link to notebook with OpenCV Yolov3 implementation - 
+
+
 Link to notebook with Custom Training of Yolov3 -
+
+
 Link to annotated YouTube video - 
